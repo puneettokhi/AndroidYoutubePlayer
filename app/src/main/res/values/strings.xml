@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MyTube</string>
+    <string name="play_video">Play video</string>
+    <string name="log_out">Log Out</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_mytube">Welcome to MyTube</string>
+    <string name="thumbnail_image_view_desc">Youtube Video thumbnail image view</string>
+    <string name="close_player_activity">Close Player activity</string>
+
+    <!-- we need to use video ids instead of video link -->
+    <string-array name="video_id_array">
+        <item>7uP5cpdXaHg</item>
+        <item>nfWlot6h_JM</item>
+        <item>wRRsXxE1KVY</item>
+        <item>GJdiM-muYqc</item>
+        <item>HIGtLRnGCD4</item>
+        <item>vVeVcVBW_CE</item>
+        <item>YQDL-M3XW08</item>
+        <item>bGC2fNALbNU</item>
+        <item>4KcMdH8qiuk</item>
+        <item>j_NS8y3NVB0</item>
+    </string-array>
+
+    <!--This array contains titles of the videos-->
+    <string-array name="video_title_array">
+        <item>Shinsuke Nakamura Shadows of Sun</item>
+        <item>Taylor Swift Shake It Off</item>
+        <item>John Cena Prank Call</item>
+        <item>Google Coding Interview Question and Answer #1: First Recurring Character</item>
+        <item>The Man Who Cheated Millionaire - Who Wants To Be A Millionaire?</item>
+        <item>Mr. McMahon and Donald Trump's Battle of the Billionaires Contract Signing</item>
+        <item>Police Arrest Prank On Mom!</item>
+        <item>Facebook Coding Interview Question and Answer #1: All Subsets of a Set</item>
+        <item>Why I Left My $100,000+ Job at Google</item>
+        <item>WWE Top 10 Biggest Hometown Heroes Ovation</item>
+    </string-array>
+
+    <!--This array contains times of the videos-->
+    <string-array name="video_time_array">
+        <item>01:52</item>
+        <item>4:01</item>
+        <item>05:49</item>
+        <item>06:34</item>
+        <item>05:04</item>
+        <item>22:05</item>
+        <item>4:39</item>
+        <item>10:57</item>
+        <item>2:59</item>
+        <item>5:26</item>
+    </string-array>
+
+</resources>
