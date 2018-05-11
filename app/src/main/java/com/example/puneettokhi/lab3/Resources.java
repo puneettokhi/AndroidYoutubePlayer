@@ -8,5 +8,5 @@ package com.example.puneettokhi.lab3;
 public class Resources {
 
     // my API Key
-    public static final String API_KEY = "AIzaSyD04mPtdIs5E_En-3G6ra8ZMte1FD4mDcs";
+    public static final String API_KEY = "";
 }
